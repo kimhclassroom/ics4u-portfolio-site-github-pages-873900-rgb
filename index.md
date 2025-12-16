@@ -13,5 +13,5 @@ A short intro (interests, goals, tools I’m learning).
 ---
 ## Java swing Game - Galaxy Glide
 
-- Read Me: [Description of my Game](./posts/Description of my Game Galaxy Glide.md)
+- Read Me: [Description of my Game](./posts/Description of my Game.md)
 - Main Code: [Game Code](./posts/Galaxy Glide Game.md)
